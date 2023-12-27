@@ -3,8 +3,8 @@
 ## Welcome to my GitHub spaceship 🌌
 
 ## My Languages:
-- [English](https://github.com/yourusername/yourusername/blob/main/README.md)
-- [Русский](https://github.com/yourusername/yourusername/blob/main/README_RU.md)
+- [English](https://github.com/yourusername/henrik-z4/blob/main/README.md)
+- [Русский](https://github.com/yourusername/henrik-z4/blob/main/README_RU.md)
 
 ![Profile Banner](https://i.imgur.com/VQmIDy0.png)
 
